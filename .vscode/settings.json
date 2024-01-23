@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/warunk/Downloads/SimbaJDBCDriverforGoogleBigQuery42_1.5.2.1005/*.jar"
+    ]
+}
