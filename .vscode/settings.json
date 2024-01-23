@@ -3,6 +3,6 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "/Users/warunk/Downloads/SimbaJDBCDriverforGoogleBigQuery42_1.5.2.1005/*.jar"
+        "/Users/warunk/Downloads/SimbaJDBCDriverforGoogleBigQuery42_1.5.2.1005/*.jar" // change according to your path
     ]
 }
